@@ -4,7 +4,6 @@ main {
   flex-direction: column;
   height: 100vh;
   justify-content: center;
-  max-width: 1148px;
   padding: 0 15px;
   text-align: center;
 }
