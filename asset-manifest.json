@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/due-pilates/static/css/main.804f8312.css",
-    "main.js": "/due-pilates/static/js/main.306ae7dc.js",
-    "static/js/787.12f98cd2.chunk.js": "/due-pilates/static/js/787.12f98cd2.chunk.js",
-    "static/media/due-logo.svg": "/due-pilates/static/media/due-logo.5b1efa256485e70375eb1d7c6d084771.svg",
-    "static/media/logo-whatsApp.svg": "/due-pilates/static/media/logo-whatsApp.34a7b7938e17e7d81f0d60db24502c58.svg",
-    "index.html": "/due-pilates/index.html",
-    "main.804f8312.css.map": "/due-pilates/static/css/main.804f8312.css.map",
-    "main.306ae7dc.js.map": "/due-pilates/static/js/main.306ae7dc.js.map",
-    "787.12f98cd2.chunk.js.map": "/due-pilates/static/js/787.12f98cd2.chunk.js.map"
+    "main.css": "./static/css/main.804f8312.css",
+    "main.js": "./static/js/main.4393058d.js",
+    "static/js/787.12f98cd2.chunk.js": "./static/js/787.12f98cd2.chunk.js",
+    "static/media/due-logo.svg": "./static/media/due-logo.5b1efa256485e70375eb1d7c6d084771.svg",
+    "static/media/logo-whatsApp.svg": "./static/media/logo-whatsApp.34a7b7938e17e7d81f0d60db24502c58.svg",
+    "index.html": "./index.html",
+    "main.804f8312.css.map": "./static/css/main.804f8312.css.map",
+    "main.4393058d.js.map": "./static/js/main.4393058d.js.map",
+    "787.12f98cd2.chunk.js.map": "./static/js/787.12f98cd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.804f8312.css",
-    "static/js/main.306ae7dc.js"
+    "static/js/main.4393058d.js"
   ]
 }
